@@ -33,4 +33,11 @@ function MyList(props) {
         ]
     )
 }
-console.log('dd2');
+
+
+var fruit ='aaa'
+if(true){
+    var fruit = '요리'
+    console.log('dd1 : ' + fruit);
+}
+console.log('dd2 : ' + fruit);
